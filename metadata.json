@@ -1,0 +1,6 @@
+{
+  "name": "AIdex CLI",
+  "description": "Interactive 3D landing page for AIdex, a cutting-edge developer AI agent CLI, with live Gemini execution feedback and real-time particle dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
